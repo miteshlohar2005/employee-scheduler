@@ -1,1 +1,1 @@
-"""Scheduler tests. To be added once scheduling logic exists."""
+"""Regression tests for the existing store and shift scheduler."""

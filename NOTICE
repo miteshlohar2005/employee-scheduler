@@ -1,0 +1,19 @@
+This project uses the following open-source technologies:
+
+- React and React DOM: MIT License
+- Vite: MIT License
+- Tailwind CSS: MIT License
+- Framer Motion: MIT License
+- Lucide: ISC License
+- Recharts: MIT License
+- FastAPI: MIT License
+- Uvicorn: BSD License
+- PyMongo: Apache License 2.0
+- python-dotenv: BSD License
+- pandas: BSD License
+- openpyxl: MIT License
+- Google OR-Tools: Apache License 2.0
+
+Package licenses remain with their respective authors and should be reviewed
+in each dependency's package metadata. Sample brands and employees are
+fictional demonstration data.
