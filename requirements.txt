@@ -1,0 +1,10 @@
+pymongo
+python-dotenv
+faker
+ortools
+pandas
+openpyxl
+fastapi
+uvicorn
+python-multipart
+pytest
